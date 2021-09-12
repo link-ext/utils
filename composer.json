@@ -1,6 +1,6 @@
 {
     "name": "linksoft/utils",
-    "license": "",
+    "license": "MIT",
     "type": "linksoft-plugin",
     "description": "Utils Plugin for LinkSoft",
     "keywords": [
