@@ -1,0 +1,29 @@
+{
+    "name": "linksoft/utils",
+    "license": "",
+    "type": "linksoft-plugin",
+    "description": "Utils Plugin for LinkSoft",
+    "keywords": [
+        "LinkSoft",
+        "Utils"
+    ],
+    "authors": [
+        {
+            "name": "LinkSoft Development Corporation",
+            "homepage": "https://www.linksoft.cn"
+        }
+    ],
+    "require": {
+        "php": ">=7.3.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "LinkSoft\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "LinkSoftTest\\Utils\\": "tests/"
+        }
+    }
+}
