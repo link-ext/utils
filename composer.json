@@ -18,7 +18,6 @@
         "ext-mbstring": "*",
       "ext-sockets": "*"
     },
-    "minimum-stability": "dev",
     "autoload": {
         "psr-4": {
             "LinkSoft\\": "src/"
